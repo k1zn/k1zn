@@ -3,9 +3,13 @@
 [![VK](https://img.shields.io/badge/-VK-4680C2?style=flat-square&logo=vK&logoColor=white)](https://vk.com/kizzn)
 [![TG](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/kizzn)
 
-![](https://github-readme-stats.vercel.app/api?username=k1zn&theme=dark&show_icons=true&hide_border=true&count_private=true)
-
-![](https://komarev.com/ghpvc/?username=k1zn&color=blueviolet)
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=k1zn&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
+</a>
+<br>
+<a href="#">
+  <img src="https://komarev.com/ghpvc/?username=k1zn&color=blueviolet"/>
+</a>
 
 
 ## Useful repos 🤔
