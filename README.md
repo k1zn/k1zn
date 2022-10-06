@@ -15,5 +15,5 @@
 ## Useful repos 🤔
 
 [RakBot](https://github.com/k1zn/RakBot) - download RakBot and see wiki for Lua-API<br>
-[ROMBrick](https://github.com/k1zn/ROMBrick) - detect ROMs/TWRP-installers that can break your phone<br>
+[ROMDetect](https://github.com/k1zn/ROMDetect) - detect ROMs/TWRP-installers that can break your phone<br>
 [alga-card](https://github.com/k1zn/alga-card) - Node.js wrapper for get balance of "АЛҒА" card
